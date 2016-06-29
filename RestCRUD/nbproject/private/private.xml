@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/RestCRUD/src/java/br/com/wservice/service/AlunoFacadeREST.java</file>
+            <file>file:/C:/RestCRUD/src/java/br/com/wservice/model/Aluno.java</file>
+            <file>file:/C:/RestCRUD/web/novo_aluno.jsp</file>
+            <file>file:/C:/RestCRUD/src/java/br/com/wservice/service/ApplicationConfig.java</file>
+            <file>file:/C:/RestCRUD/src/java/br/com/tads/client/controller/Matricula.java</file>
+            <file>file:/C:/RestCRUD/web/assets/css/docbootstrap.min.css</file>
+            <file>file:/C:/RestCRUD/web/assets/css/bootstrap.min.css</file>
+            <file>file:/C:/RestCRUD/web/index.jsp</file>
+            <file>file:/C:/RestCRUD/src/java/br/com/tads/client/model/Aluno.java</file>
+            <file>file:/C:/RestCRUD/web/listar_alunos.jsp</file>
+            <file>file:/C:/RestCRUD/src/java/br/com/tads/client/model/AlunoRestClient.java</file>
+        </group>
+    </open-files>
+</project-private>
